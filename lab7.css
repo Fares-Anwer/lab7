@@ -1,0 +1,18 @@
+body{
+    background-color: blue;
+}
+.test{
+    color: white;
+    border: inset;
+    border-top-style: double;
+    border-right-style: groove;
+    border-bottom-style: solid;
+    border-left-style: outset;
+    border: 5px solid yellow;
+}
+/* p{
+    background-color: green;
+}
+article{
+    color: red;
+} */
